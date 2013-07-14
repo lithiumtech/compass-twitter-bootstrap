@@ -1,7 +1,7 @@
 {
   "name": "compass-twitter-bootstrap-lithium",
   "version": "2.3.1",
-  "main": "stylesheets/",
+  "main": "stylesheets/", 
   "ignore": [
     "build",
     "lib",
