@@ -1,10 +1,10 @@
 {
-  "name": "compass-twitter-bootstrap",
+  "name": "compass-twitter-bootstrap-lithium",
   "ignore": [
-    "build/",
-    "lib/",
-    "stylesheets_sass/",
-    "vendor/",
+    "build",
+    "lib",
+    "stylesheets_sass",
+    "vendor",
     ".gitignore",
     "CHANGELOG.md",
     "compass_twitter_bootstrap.gemspec",
